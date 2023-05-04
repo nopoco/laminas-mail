@@ -8,3 +8,4 @@
 /vendor/
 /test/_files/test.maildir/
 .phpcs-cache
+.idea
